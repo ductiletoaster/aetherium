@@ -23,5 +23,5 @@ Refuge Warrior -> Shadow warrior / illusion specialist (Dark elf/ Orc) (Gray/Evi
 
 NPC Mods
 * Diverse Skyrim https://www.nexusmods.com/skyrimspecialedition/mods/7707
-* Diversity vs total char? https://www.nexusmods.com/skyrimspecialedition/mods/5291
+* Diversity??? https://www.nexusmods.com/skyrimspecialedition/mods/5291
 * Populated??? https://www.nexusmods.com/skyrimspecialedition/mods/2005
