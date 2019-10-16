@@ -25,3 +25,4 @@ NPC Mods
 * Diverse Skyrim https://www.nexusmods.com/skyrimspecialedition/mods/7707
 * Diversity??? https://www.nexusmods.com/skyrimspecialedition/mods/5291
 * Populated??? https://www.nexusmods.com/skyrimspecialedition/mods/2005
+* Add body physics for both male and female characters
