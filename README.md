@@ -15,11 +15,7 @@ Arcane Student -> Powerful Mage / Lich (Evil)
 Refuge Warrior -> Shadow warrior / illusion specialist (Dark elf/ Orc) (Gray/Evil)
 
 ## Todo
-1) Fix facegen issues maybe: https://www.nexusmods.com/skyrimspecialedition/mods/19012?tab=files
-2) Reduce Bijin to AIO + fixes https://www.nexusmods.com/skyrimspecialedition/mods/11?tab=files
-2) Elf ears and hoods
-3) Look into UNP Blessed
-4) Follow part of this guide for textures http://www.predcaliber.com/skyrimsetut
+1) Follow part of this guide for textures http://www.predcaliber.com/skyrimsetut
 
 NPC Mods
 * Diverse Skyrim https://www.nexusmods.com/skyrimspecialedition/mods/7707
